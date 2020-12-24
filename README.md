@@ -1,6 +1,6 @@
 # Wish you a merry Christmas & Happy New Year ~~~
   
-Just directly run "MerryXMas.m" with Matlab and listen~  
+Just directly run "MerryXMas.m" with MATLAB and listen~  
 Don't forget to put on your earphones/headphones!  
 If you want to save the audio file, just uncomment the very last line of "MerryXMas.m".  
 Hope you enjoy it!  
