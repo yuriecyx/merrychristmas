@@ -1,4 +1,4 @@
-# Wish you a merry Christmas & Happy New Year ~~~~
+# Wish you a merry Christmas & Happy New Year ~~~
   
 Just directly run "MerryXMas.m" with Matlab and listen~  
 Don't forget to put on your earphones/headphones!  
